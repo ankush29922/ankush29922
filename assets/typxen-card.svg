@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-labelledby="title desc">
+<title id="title">TYPXEN</title><desc id="desc">Local automation. Connected hardware.</desc>
+<defs><linearGradient id="surface" x2="1" y2="1"><stop stop-color="#111c2c"/><stop offset="1" stop-color="#382e37"/></linearGradient></defs>
+<rect x="1" y="1" width="598" height="258" rx="21" fill="url(#surface)" stroke="#314252"/>
+<path d="M361 24v183M376 207h185" stroke="#ffffff" opacity=".07"/>
+<text x="29" y="43" fill="#ffd092" font-family="Consolas,monospace" font-size="13" letter-spacing="1.1">02 / DEVICE AUTOMATION</text>
+<text x="26" y="121" fill="#f0f6ff" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.8">TYPXEN</text>
+<text x="29" y="157" fill="#bbccdb" font-family="Segoe UI,Arial,sans-serif" font-size="16">Local automation. Connected hardware.</text>
+<path d="M29 188h50" stroke="#ffd092" stroke-width="3"/>
+<text x="29" y="230" fill="#ffd092" font-family="Consolas,monospace" font-size="13" letter-spacing="1">BUILT BY XEN</text>
+<path d="M541 222h18m-6-6 6 6-6 6" fill="none" stroke="#ffd092" stroke-width="2"/>
+<g transform="translate(417 61)" fill="none" stroke="#ffd092" stroke-width="2"><rect x="0" y="4" width="70" height="110" rx="14" fill="#172031"/><path d="M25 15h20M30 103h10"/><path d="m29 42 20 20-20 18V42l20 38-20-18 20-20"/><path d="M88 40h18m-18 11h18m-18 11h18m-18 11h18" opacity=".6"/><rect x="100" y="28" width="37" height="58" rx="5" fill="#172031"/><path d="M108 40h21v16h-21zm0 23h8m5 0h8m-21 11h21"/></g>
+</svg>

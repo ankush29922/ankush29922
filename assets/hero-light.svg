@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Ankush Kumar — xen</title><desc id="desc">Software, cloud and connected devices. Original engineering-themed profile banner.</desc>
+<defs>
+<linearGradient id="back" x2="1" y2="1"><stop stop-color="#f0f5f9"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#08785f"/><stop offset="1" stop-color="#2558a0"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#d2dee9" stroke-width=".6"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="418" rx="28" fill="url(#back)" stroke="#d2dee9"/>
+<path d="M682 1H1172Q1199 1 1199 28V392Q1199 419 1172 419H682Z" fill="url(#grid)" opacity=".7"/>
+<path d="M641 48V372" stroke="#d2dee9"/>
+<rect x="55" y="48" width="37" height="37" rx="11" fill="#08785f"/>
+<path d="m64 57 18 19m0-19L64 76" stroke="#f0f5f9" stroke-width="4.5" stroke-linecap="square"/>
+<text x="107" y="73" fill="#506b80" font-family="Consolas,monospace" font-size="16" letter-spacing="2">xen / ENGINEERING</text>
+<text x="53" y="189" fill="#142b41" font-family="Segoe UI,Arial,sans-serif" font-size="87" font-weight="700" letter-spacing="-4">Ankush</text>
+<text x="53" y="277" fill="#08785f" font-family="Segoe UI,Arial,sans-serif" font-size="87" font-weight="700" letter-spacing="-4">Kumar.</text>
+<text x="58" y="329" fill="#142b41" font-family="Segoe UI,Arial,sans-serif" font-size="23">Software. Cloud. Connected devices.</text>
+<text x="58" y="372" fill="#506b80" font-family="Consolas,monospace" font-size="14" letter-spacing="1.1">COMPUTER SCIENCE / KIIT</text>
+<path d="M726 144V181Q726 193 742 193H790M1031 228V273Q1031 284 1015 284H981" fill="none" stroke="url(#accent)" stroke-width="2"/>
+<g font-family="Consolas,monospace" font-size="14" fill="#506b80">
+<text x="706" y="54" letter-spacing="2">FROM AN IDEA</text>
+<text x="880" y="380" letter-spacing="2">TO SOMETHING USEFUL</text>
+</g>
+<rect x="687" y="76" width="327" height="82" rx="16" fill="#ffffff" stroke="#d2dee9"/>
+<rect x="713" y="100" width="32" height="28" rx="6" fill="none" stroke="#08785f" stroke-width="1.5"/>
+<path d="m722 109 5 5-5 5m10 0h5" fill="none" stroke="#08785f" stroke-width="1.5"/>
+<text x="765" y="124" font-family="Segoe UI,Arial,sans-serif" fill="#142b41" font-size="24" font-weight="600">Write the software</text>
+<rect x="787" y="166" width="348" height="82" rx="16" fill="#ffffff" stroke="#d2dee9"/>
+<path d="M815 215h26a9 9 0 0 0 1-18 12 12 0 0 0-23-2 10 10 0 0 0-4 20Z" fill="none" stroke="#2558a0" stroke-width="1.8"/>
+<text x="866" y="214" font-family="Segoe UI,Arial,sans-serif" fill="#142b41" font-size="24" font-weight="600">Connect the systems</text>
+<rect x="723" y="266" width="299" height="82" rx="16" fill="#ffffff" stroke="#d2dee9"/>
+<rect x="750" y="288" width="28" height="28" rx="5" fill="none" stroke="#08785f" stroke-width="1.7"/>
+<path d="M757 284v4m7-4v4m7-4v4m-14 28v5m7-5v5m7-5v5m-26-25h5m-5 10h5m28-10h5m-5 10h5" stroke="#08785f" stroke-width="1.7"/>
+<rect x="758" y="296" width="12" height="12" rx="2" fill="#08785f" opacity=".3"/>
+<text x="799" y="314" font-family="Segoe UI,Arial,sans-serif" fill="#142b41" font-size="24" font-weight="600">Make it work</text>
+<circle cx="726" cy="177" r="4" fill="#08785f"/><circle cx="1031" cy="259" r="4" fill="#2558a0"/>
+<path d="M1043 70h68m-34-34v68" stroke="#d2dee9" stroke-width="1.3"/><circle cx="1077" cy="70" r="18" fill="none" stroke="#d2dee9"/>
+</svg>
